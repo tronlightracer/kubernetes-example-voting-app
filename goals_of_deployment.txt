@@ -1,3 +1,0 @@
-deploy containers
-enable connectivity
-enable external access
